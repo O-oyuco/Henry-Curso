@@ -1,2 +1,3 @@
-# Henry-Curso
-Vamos aprendiendo cosas .
+Marcos Pacheco
+Aprendoendo cosas que ojala funcionen :P
+
